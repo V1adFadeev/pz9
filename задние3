@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="zadanie1" defer></script>
+        <script src="zadanie1.js" defer></script>
         <script defer src="задание2"></script>
         <title>Document</title>
     </head>
